@@ -1,0 +1,7 @@
+electron .开启应用
+
+
+
+打包一个app桌面应用
+electron-packager . app --win --out presenterTool --arch=x64
+ --version 1.4.14 --overwrite --ignore=node_modules
